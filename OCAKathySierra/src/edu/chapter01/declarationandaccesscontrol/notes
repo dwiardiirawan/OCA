@@ -1,0 +1,11 @@
+Legal Identifier:
+- Identifier must start with a letter, a currency character($) or a connecting character such as underscore.
+- Identifier cannot start with a digit!!
+
+Source File Declaration Rules
+- There can be only one public class per source code file.
+- If there is a public class in a file. the name of the file must match the name of the public class
+- a file can have more than one non public class.
+- file with no public class can have a name that does not match any of the classes in the file.
+
+
